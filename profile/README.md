@@ -37,12 +37,6 @@ Join us, learn new skills, and let's dominate the leaderboards together!
 
 ---
 
-### 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?organization=OverClockOrOCK&show_icons=true&theme=gruvbox)
-
----
-
 Interested in joining us? Reach out! Let's break down security barriers and climb the ranks together.
 
 [website]: https://  

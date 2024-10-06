@@ -14,9 +14,9 @@ Join us, learn new skills, and let's dominate the leaderboards together!
 
 <p align="left">
    <a href="https://github.com/ICodKid?tab=followers">
-      <img alt="followers" title="Follow us on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ICodKid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <img alt="followers" title="Follow us on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/OverClockOrOCK?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/ICodKid?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ICodKid?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OverClockOrOCK?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
